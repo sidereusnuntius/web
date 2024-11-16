@@ -1,0 +1,19 @@
+nav li {
+    display: inline-block;
+    width: 20vw;
+    border-radius: 5px;
+    border-width: 2px;
+    text-align: center;
+    background-color: crimson;
+}
+
+section {
+    text-wrap:wrap;
+    display: inline-block;
+    width: 45vw;
+    margin: 5vw;
+    border-width: 2px;
+    border-style: solid;
+    background-color: crimson;
+    box-shadow: 2px 4px 6px black;
+}

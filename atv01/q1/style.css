@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background-color: #eee7d7;
+}
+
+main {
+    word-wrap: break-word;
+}
+
+
+p {
+    vertical-align: top;
+    width: 200px;
+    display: inline-block;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 0px;
+    margin: 10px;
+    padding: 5px;
+    background-color:  	 	#e5cbba;
+}
+
+.section {
+    margin: auto;
+    background-color:  	#e5cbba;
+    border-radius: 2px;
+}
